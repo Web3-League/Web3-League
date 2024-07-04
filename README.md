@@ -1,5 +1,6 @@
 # 🌐 Welcome to WEB3-LEAGUE!
 
+![cartoon(1)](https://github.com/Web3-League/Web3-League/assets/92599124/2778c7c5-1a33-419d-90a9-bf63197209a5)
 
 
 
