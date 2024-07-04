@@ -3,7 +3,7 @@
 
 ## 👋 About Me
 
-Hey there! I'm [User-Prime](https://github.com/yourusername), a full-stack developer with a passion for web development, AI, and contributing to the open-source community. When I'm not coding, I'm exploring new tech trends or just having a blast tinkering with new ideas.
+Hey there! I'm [User-Prime](https://github.com/Web3-League), a full-stack developer with a passion for web development, AI, and contributing to the open-source community. When I'm not coding, I'm exploring new tech trends or just having a blast tinkering with new ideas.
 
 - 💼 Current Role: **Full-Stack Developer**
 - 💬 Ask me about: **Any cool development projects or just chat about free time dev hacks!**
