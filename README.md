@@ -22,7 +22,7 @@ Welcome to **WEB3-LEAGUE**! We're all about making development fun and accessibl
 
 ## 🚀 Getting Started
 
-Ready to dive in? Follow these steps to get the project up and running:
+Ready to dive in? Follow these steps to get the project up and read:
 
 
 
