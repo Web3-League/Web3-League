@@ -1,6 +1,5 @@
 # 🌐 Welcome to WEB3-LEAGUE!
 
-!(https://yourimageurl.com/banner.png) 
 
 ## 👋 About Me
 
@@ -9,7 +8,7 @@ Hey there! I'm [User-Prime](https://github.com/yourusername), a full-stack devel
 - 💼 Current Role: **Full-Stack Developer**
 - 💬 Ask me about: **Any cool development projects or just chat about free time dev hacks!**
 
-!(https://yourimageurl.com/avatar.png) 
+
 
 ## 🌀 Project Overview
 
