@@ -1,6 +1,5 @@
 # 🌐 Welcome to WEB3-LEAGUE!
 
-https://github.com/Web3-League/Web3-League/blob/cartoon.jpg
 
 
 ## 👋 About Me
