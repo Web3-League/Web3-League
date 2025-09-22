@@ -33,24 +33,6 @@ My goal is to build projects that are **accessible, scalable, and useful for the
 
 ---
 
-## 🌟 My Work
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Web3-League&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
-
-<p align="center">
-  👉 Explore them all here: <a href="https://github.com/Web3-League?tab=repositories"><b>My Repositories</b></a>
-</p>
-
-<!-- Badge dynamique si tu veux -->
-<p align="center">
-  <img src="https://badgen.net/github/repos/Web3-League?icon=github&label=Public%20Repos" />
-</p>
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
