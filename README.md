@@ -6,7 +6,7 @@
 <!-- Title & Intro -->
 <p align="center">
   <b>Welcome to WEB3-LEAGUE</b><br>
-  Full-Stack Developer • Open-Source Contributor • AI & Web Enthusiast
+  Full-Stack Engineer • Open-Source Builder • Web3 & AI Enthusiast
 </p>
 
 <!-- Badges -->
@@ -23,23 +23,23 @@
 
 ## 👋 About Me
 
-Hi, I’m **User-Prime** 👨‍💻  
-I’m a **full-stack developer** passionate about **web development, AI, and open-source**.  
-When I’m not coding, I explore new technologies and contribute to building accessible tools for the community.  
+Hi, I’m the creator behind **WEB3-LEAGUE** 👨‍💻  
+I’m a **full-stack developer** passionate about **web development, AI, and open-source innovation**.  
+My goal is to build projects that are **accessible, scalable, and useful for the community**.  
 
-- 💼 **Current Role**: Full-Stack Developer  
-- 💬 **Interests**: Web, AI, Open-Source, Creative Coding  
-- 🌱 **Currently learning**: Advanced Web3 & AI integration  
+- 💼 **Current Role**: Full-Stack Engineer  
+- 💬 **Interests**: Web3, AI, Open-Source, Scalable Systems  
+- 🌱 **Currently exploring**: Next-gen APIs & decentralized technologies  
 
 ---
 
-## 🌟 My Work
+## 🌟 Featured Repositories
 
-Here are some highlights of my repositories:  
+Some highlights from my work:  
 
 - 🔹 [**WEB3-LEAGUE**](https://github.com/Web3-League/Web3-League) — Free & scalable API platform  
-- 🔹 [Other Project 1](#) — Short description  
-- 🔹 [Other Project 2](#) — Short description  
+- 🔹 [Project 2](#) — Short description  
+- 🔹 [Project 3](#) — Short description  
 
 👉 Explore all my repositories [here](https://github.com/Web3-League?tab=repositories).  
 
