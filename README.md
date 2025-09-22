@@ -1,5 +1,13 @@
-# 🌐 Welcome to WEB3-LEAGUE!
+<p align="center">  
+  <b>WEB3-LEAGUE</b> is an open-source initiative providing a free and flexible API for developers.  
+  Built to be <b>fast</b>, <b>secure</b>, and <b>scalable</b>, it empowers both beginners and experienced engineers.  
+</p>  
 
+<p align="center">  
+  <a href="https://github.com/Web3-League/Web3-League/stargazers"><img src="https://img.shields.io/github/stars/Web3-League/Web3-League?style=for-the-badge&color=blue" /></a>  
+  <a href="https://github.com/Web3-League/Web3-League/network/members"><img src="https://img.shields.io/github/forks/Web3-League/Web3-League?style=for-the-badge&color=purple" /></a>  
+  <a href="https://github.com/Web3-League/Web3-League/blob/main/LICENSE"><img src="https://img.shields.io/github/license/Web3-League/Web3-League?style=for-the-badge&color=brightgreen" /></a>  
+</p>
 
 
 
