@@ -36,14 +36,18 @@ My goal is to build projects that are **accessible, scalable, and useful for the
 ## 🌟 My Work
 
 <p align="center">
-I maintain <b>📂 {{NOMBRE_DE_REPOS}}+ public repositories</b><br>
+I maintain <b>📂 10+ public repositories</b><br>
 covering Web3, AI, APIs, and open-source projects.
 </p>
 
 <p align="center">
-  <img src="https://badgen.net/github/repos/Web3-League?icon=github&label=Public%20Repos" />
+  👉 Explore them all here: <a href="https://github.com/Web3-League?tab=repositories"><b>My Repositories</b></a>
 </p>
 
+<!-- Badge dynamique si tu veux -->
+<p align="center">
+  <img src="https://badgen.net/github/repos/Web3-League?icon=github&label=Public%20Repos" />
+</p>
 
 ---
 
