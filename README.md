@@ -36,9 +36,9 @@ My goal is to build projects that are **accessible, scalable, and useful for the
 ## 🌟 My Work
 
 <p align="center">
-I maintain <b>📂 10+ public repositories</b><br>
-covering Web3, AI, APIs, and open-source projects.
+  <img src="https://github-readme-stats.vercel.app/api?username=Web3-League&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
+
 
 <p align="center">
   👉 Explore them all here: <a href="https://github.com/Web3-League?tab=repositories"><b>My Repositories</b></a>
