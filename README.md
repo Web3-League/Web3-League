@@ -33,15 +33,17 @@ My goal is to build projects that are **accessible, scalable, and useful for the
 
 ---
 
-## 🌟 Featured Repositories
+## 🌟 My Work
 
-Some highlights from my work:  
+<p align="center">
+I maintain <b>📂 {{NOMBRE_DE_REPOS}}+ public repositories</b><br>
+covering Web3, AI, APIs, and open-source projects.
+</p>
 
-- 🔹 [**WEB3-LEAGUE**](https://github.com/Web3-League/Web3-League) — Free & scalable API platform  
-- 🔹 [Project 2](#) — Short description  
-- 🔹 [Project 3](#) — Short description  
+<p align="center">
+  <img src="https://badgen.net/github/repos/Web3-League?icon=github&label=Public%20Repos" />
+</p>
 
-👉 Explore all my repositories [here](https://github.com/Web3-League?tab=repositories).  
 
 ---
 
