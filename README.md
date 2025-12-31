@@ -31,6 +31,7 @@ pip install nanopy-chain
 | **Explorer** | Block explorer | [blockchain-scan](https://github.com/Web3-League/blockchain-scan) |
 | **Faucet** | Testnet faucet | [faucet-testnet](https://github.com/Web3-League/faucet-testnet) |
 | **SDK** | TypeScript SDK | [nanopy-sdk](https://github.com/Web3-League/nanopy-sdk) |
+| **Oracle** | AI-powered oracle | [nanopy-oracle](https://github.com/Web3-League/nanopy-oracle) |
 | **Webapp** | DApp interface | [dapp-nanopy](https://github.com/Web3-League/dapp-nanopy) |
 
 ### Networks
