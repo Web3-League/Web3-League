@@ -63,12 +63,5 @@ pip install nanopy-chain
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Web3-League&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=00d4aa&icon_color=00d4aa" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Web3-League&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=00d4aa" height="150" />
-</p>
-
----
-
-<p align="center">
   <b>MIT License</b> • Open Source • Made with Python & Go
 </p>
